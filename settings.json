@@ -1,0 +1,23 @@
+{
+
+  "instance_name": "server2",
+  "instance_version": "1.0.0",
+  "instance_is_master": true,
+  "logging": "_stdout",
+
+  "connected_instances": [
+    {
+      "host": "localhost",
+      "port": 1000
+    },
+    {
+      "host": "http://mysite.com",
+      "port": 1000
+    },
+    {
+      "host": "https://mysite2.com",
+      "port": 9000
+    }
+  ]
+
+}
